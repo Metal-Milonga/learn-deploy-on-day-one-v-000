@@ -134,12 +134,21 @@ a:visited {
   height: 400px;
 }
 
+<<<<<<< Updated upstream
 #teresa-grosch-cover {
   background-image: url("http://imgur.com/VcbIKew.jpg");
 }
 
 #teresa-grosch-card {
   background-image: url("http://imgur.com/RWhByb2.jpg");
+=======
+#david-holton-cover {
+  background-image: url("http://i.imgur.com/Cilefxv.jpg?1");
+}
+
+#david-holton-card {
+  background-image: url("http://i.imgur.com/Cilefxv.jpg?1");
+>>>>>>> Stashed changes
 }
 
 #shannon-mccormack-cover {
