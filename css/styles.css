@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#teresa-grosch-cover {
+  background-image: url("http://imgur.com/VcbIKew.jpg");
+}
+
+#teresa-grosch-card {
+  background-image: url("http://imgur.com/RWhByb2.jpg");
+}
+
 #shannon-mccormack-cover {
   background-image: url("http://i.imgur.com/cpQOEk8.jpg");
 }
@@ -148,6 +156,14 @@ a:visited {
 
 #sarah-rosenshine-card {
   background-image: url("http://imgur.com/PSTPojs.jpg");
+}
+
+#alyssa-sidebottom-cover {
+  background-image: url("http://i.imgur.com/buG85Bc.jpg")
+}
+
+#alyssa-sidebottom-card {
+  background-image: url("http://i.imgur.com/arb0Adx.jpg")
 }
 
 #bruno-boehm-cover {
@@ -260,6 +276,14 @@ a:visited {
 
 #alex-crisan-card {
   background-image: url("http://imgur.com/RZt07dq.jpg");
+}
+
+#andres-duarte-cover {
+  background-image: url("http://imgur.com/Io1VW89.jpg");
+}
+
+#andres-duarte-card {
+  background-image: url("http://i.imgur.com/j0dg4nC.jpg");
 }
 
 #justin-gore-cover{
@@ -4064,6 +4088,15 @@ a:visited {
   background-image: url("http://i.imgur.com/29z8Qy6.jpg")
 }
 
+
+#chenxi-wu-cover {
+    background-image: url("http://i.imgur.com/K6G6E5n.jpg");
+}
+
+#chenxi-wu-card {
+  background-image: url("http://i.imgur.com/Jup76TT.jpg");
+}
+
 #brooke-bowles-cover{
   background-image: url("http://i.imgur.com/seYGh6Z.jpg")
 }
@@ -4366,6 +4399,41 @@ a:visited {
 
 #victoria-machen-card {
   background-image: url("http://imgur.com/zW9wzns.jpg");
+}
+
+#parvathi-kumar-cover {
+  background-image: url("http://imgur.com/baMnfMr.jpg")
+}
+#parvathi-kumar-card {
+  background-image: url("http://imgur.com/2SLxa2p.jpg")
+}
+
+#corinna-brock-moore-card{
+  background-image: url("http://imgur.com/YVyS8zZ.jpg");
+}
+
+#corinna-brock-moore-cover {
+  background-image: url("http://imgur.com/TFypHPe.jpg");
+}
+
+.corinna-italic{
+  font-style: italic;
+}
+
+#kevin-powell-cover{
+  background-image: url("http://i.imgur.com/dPJ8XDy.jpg");
+}
+
+#kevin-powell-card{
+  background-image: url("http://i.imgur.com/RFB1leX.jpg");
+}
+
+#john-pfingst-cover {
+  background-image: url("http://imgur.com/VZjH8FU.jpg");
+}
+
+#john-pfingst-card {
+  background-image: url("http://imgur.com/hGJrPlb.jpg");
 }
 
 .view-profile-div {
